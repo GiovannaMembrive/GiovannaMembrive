@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**GiovannaMembrive/GiovannaMembrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Giovanna, an Information Systems student and web developer in progress from Brazil.
 
-Here are some ideas to get you started:
+I design and build web systems with a strong focus on backend logic, databases, and clean structure. I enjoy understanding how things work behind the scenes and turning ideas into functional applications.
+As a hobby, I also explore game development, mixing logic and creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech & tools:** 
+My main tech stack includes Java, SQL (PostgreSQL & SQL Server), Python, and web technologies. My favorite tools are Figma, Canva and Notion.
+
+**Currently working on:**  
+Improving my backend and database skills while developing academic and personal projects related to web systems and software design.
+
+**Get in touch:**  
+💼 LinkedIn: www.linkedin.com/in/giovanna-membrive-7bb287302
+
+Always learning and building 🌱
